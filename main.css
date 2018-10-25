@@ -1,0 +1,111 @@
+body {
+    background-color:yellow;
+}
+
+h1 {
+    color:green;
+    text-align: center;
+    font-size: 50px;
+   }
+
+p {
+    font-family: comic sans-serif;
+    font-size: 21px;
+      color: green;
+    text-align: justify;
+}
+ul{
+   font-family: verdana;
+    font-size: 19px;
+    color: black;
+}
+
+.ig{
+ font-size: 28px;
+}
+
+#goga {
+ font-size: 50 px;
+ color: green;
+}
+
+img {
+    width: 98%;
+border-style: solid;    
+border-width:5px ;
+    border-color:beige;
+    border-radius: 5;
+}
+
+#dlf {
+    width: 12%;
+    float: left;
+    padding: 5px;
+}
+#dcn {
+    width: 46%;
+    float: left;
+    padding: 5px;
+}
+#drh {
+    width: 38%;
+    float: left;
+    padding: 5px;
+}
+#pd {
+    width: 100%;
+    float:inherit;
+    padding: 5px;
+}
+#hdr {
+    width: 99%;
+    background-color:darkolivegreen;
+    align-self: center;
+    align-content: center;
+    background-image:url(im.jpg);
+    padding: 5px;
+    height: 150px;
+    background-position: center;
+    background-size:cover;
+}
+
+
+
+nav a{
+ background-color:yellowgreen;
+    border-style: solid;
+    border-width: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:link {
+  color: #497DDD; 
+  
+}
+a:visited {
+  color: #497DDD;
+}
+a:hover {
+  color: #154088; 
+ 
+}
+a:active {
+  color: #497DDD; 
+ 
+}
+
+.activemenu{
+    font-weight: bold;
+    font-variant-caps: all-petite-caps; 
+}
+
+table{
+    width: 95%;
+    align-self: center;
+}
+ td{
+    border: 1px;
+    border-style: solid;
+}
